@@ -54,7 +54,7 @@ drawSprites()
 if (frameCount%50==0) {
      criarobjeto()
 }
-if (frameCount%1==0&&fome>0) {
+if (frameCount%10==0&&fome>0) {
     fome -=1
 }
 if (score%1000==0&&score!=0) {
