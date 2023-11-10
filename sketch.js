@@ -51,7 +51,7 @@ function draw() {
 console.log(frameCount)
 background(0,255,255)
 drawSprites()
-if (frameCount%5==0) {
+if (frameCount%50==0) {
      criarobjeto()
 }
 if (frameCount%1==0&&fome>0) {
