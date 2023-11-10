@@ -263,7 +263,7 @@ function gameover(){
         swal({
             title:"voce tinha muita fome",
             text:"pegue a maça amarela para diminuir a fome quando a barra laranja desse demais voce perde",
-            confirmButtonText:"jogar novamente e ir melhor      four & X ,bfdi 1-25 ,bfdia 1-4 & 5a-5e ,idfb 1-1,bfb 1-30 ,tpot 1-6"
+            confirmButtonText:"jogar novamente e ir melhor"
         },function(isConfirm){
             if(isConfirm){
                 location.reload()
