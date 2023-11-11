@@ -38,7 +38,7 @@ function setup() {
     floresta.velocityX =-2
     capibara = createSprite(width/8,height/1.25,width/8,height/8)
     capibara.addImage(capibaraimg)
-    capibara.scale = 0.4
+    capibara.scale = 0.25
     macaaa1 = new Group()
     macaaa2 = new Group()
     macaaa3 = new Group()
